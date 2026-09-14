@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F2937,100:374151&height=200&section=footer&text=Welcome+to+my+GitHub+profile!&fontSize=40&fontColor=ffffff" />
+</p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Isoloneya.ForMyWEB" />
 
 <h1 align="center">
@@ -7,6 +11,14 @@
 <h3 align="center">A passionate web developer from Ukraine 🇺🇦</h3>
 
 <br/>
+
+<p align="center">
+  <strong>
+    I started my web development journey 4 years ago with frontend and UI design<br>
+    Since then, I've expanded into backend development and freelancing, building responsive web interfaces and full-stack applications.<br>
+    I specialize in clean layout implementation and modern full-stack workflows using Python and JavaScript.
+  </strong>
+</p>
 
 <div align="center">
  
