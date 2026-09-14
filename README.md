@@ -12,16 +12,16 @@
  
  🔭 I’m currently working on **FastAPI personal and shared finance tracking web application**
  
- 🌱 I’m currently learning **Python, FastAPI, PostgreSQL, SQLAlchemy**
+ 🌱 I’m currently learning or improving **Python, FastAPI, PostgreSQL, SQLAlchemy**
 
-💬 Ask me about **Python, FastAPI, PostgreSQL, JavaScript... or anything [here](https://github.com/Isoloneya/ForMyWEB/issues)**
+💬 Ask me about **Python, FastAPI, PostgreSQL, JavaScript... or anything else [here](mailto:idkthename89@gmail.com)**
 
 ⚡ Fun fact **The first computer bug was an actual real moth found inside a Harvard Mark II computer in 1947**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:foxyplayy6@gmail.com">
+  <a href="mailto:idkthename89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
