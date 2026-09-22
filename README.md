@@ -1,8 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Isoloneya.ForMyWEB" />
 
-<h3 align="center">A passionate web developer from Ukraine 🇺🇦</h3>
-
 <br/>
 
 <p align="center">
