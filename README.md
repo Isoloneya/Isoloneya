@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,php,symfony,fastapi,postgres,js,html,css,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,phpstorm" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,phpstorm,magento2" /><br>
 </div>
 
 <br/>
